@@ -1,6 +1,6 @@
 
 
-# AWS-Cloud-Project-API-Gateway-Lambda-Project
+# AWS-Cloud-Project-API-Gateway with Lambda
 
 # Objectives
 - Simple AWS Serverless API POST request call to Lambda function for a Horoscope star sign 
